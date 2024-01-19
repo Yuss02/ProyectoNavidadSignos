@@ -12,6 +12,11 @@ La Herramienta de Traducción de Signos es un proyecto desarrollado para facilit
 ## Contribuir
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor haz un fork del repositorio y utiliza un Pull Request para proponer tus cambios.
 
+## Documentación
+
+Para más detalles sobre cómo usar esta aplicación, consulta nuestra [documentación Javadoc](./javadoc/index.html).
+
+
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactar a contacto@arbeyo.me
 
