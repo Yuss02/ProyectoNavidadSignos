@@ -5,7 +5,7 @@
  * Descripción:Proyecto Navidad
  *
  * Autor: ARBEYO
- * Fecha de Creación: Enero 2023
+ * Fecha de Creación: Enero 2024
  * Versión: 1.0.0
  */
 package traductorconsultas;
